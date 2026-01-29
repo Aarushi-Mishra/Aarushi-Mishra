@@ -1,5 +1,5 @@
 
-# Aarushi Mishra | MSc Graduate (Data Analytics) | Cybersecurity (Early Career)
+# Aarushi Mishra | Cybersecurity (Early Career)
 
 [🌐 LinkedIn](https://www.linkedin.com/in/aarushi-mishra-uiuc/) | [🅼 Medium](https://medium.com/@mishra.aarushi02)
 
@@ -11,10 +11,14 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 # Skills & Hands-on Projects
 
+
+
 # Certifications
 
+![](../assets/)
+
 - TCM Security Practical SOC Analyst Associate (In Progress)
-- CompTIA Security+
+- CompTIA Securit
 - (ISC)² Certified in Cybersecurity (CC)
 - Splunk Core Certified Power User
 - Qualys Vulnerability Management Training
@@ -22,6 +26,12 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 - Microsoft Azure Fundamentals
 - Cisco Verified Python Essentials
 
+# Education
+Post-graduate Certificate (Project Management)
+
+MSc (Information Maangement)
+
+Bachelor of Engineering (Computer Science)
 
 # Work Style
 Detail-oriented, Team Player, Hardworking
