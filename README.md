@@ -1,21 +1,18 @@
 
+# Aarushi Mishra | MSc Graduate (Data Analytics) | Cybersecurity (Early Career)
 
-### About Me 
+[🌐 LinkedIn](https://www.linkedin.com/in/aarushi-mishra-uiuc/) | [🅼 Medium](https://medium.com/@mishra.aarushi02)
 
-<img width="1584" height="396" alt="medium profile banner" src="https://github.com/user-attachments/assets/4d4220ab-fa43-4c2b-8917-32a4d55e5267" />
+I bring a strong background in data analytics and business intelligence and am now moving into cybersecurity. Over the past year, I have been developing practical security analysis skills through hands-on projects, certifications, and applied work with security datasets, with a growing focus on SOC operations, security analytics, and risk assessment.
 
+# Career Focus
 
+Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst where I can apply analytical skills to monitor, investigate, and respond to security events while strengthening organizational defenses.
 
-<br>
+# Skills & Hands-on Projects
 
-## Hi ! My name is **Aarushi Mishra**. 
+# Certifications
 
-I am a data analytics professional and an aspiring cybersecurity professional with over five years of experience in business intelligence, reporting, and data-driven decision support. My background includes translating complex data into clear dashboards, KPIs, and insights that support operational and leadership teams.
-
-In recent years, I have been intentionally transitioning into cybersecurity, with a growing focus on SOC operations, security analytics, and vulnerability risk analysis. I am building hands-on experience through structured projects, certifications, and practical analysis of security datasets, applying my analytics foundation to security and technology risk use cases.
-
-
-**Certified Expertise:** 
 - TCM Security Practical SOC Analyst Associate (In Progress)
 - CompTIA Security+
 - (ISC)² Certified in Cybersecurity (CC)
@@ -25,14 +22,12 @@ In recent years, I have been intentionally transitioning into cybersecurity, wit
 - Microsoft Azure Fundamentals
 - Cisco Verified Python Essentials
 
-**Work Style:** Detail-oriented, Team Player, Hardworking
 
-**Personal Interests:** Sports, Nature, Hiking, Time-travel
+# Work Style
+Detail-oriented, Team Player, Hardworking
 
- • **Medium** 🌐 https://medium.com/@mishra.aarushi02
- 
- • **LinkedIn** 🌐 https://www.linkedin.com/in/aarushi-mishra-uiuc/
-
+# Personal Interests
+Sports, Nature, Hiking, Time-travel
 
 
 
