@@ -15,7 +15,7 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 # Certifications
 
-<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/Security+-jpg.jpg?raw=true" alt="CompTIA Security+ " width="100"/>
+<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/Security+-jpg.jpg?raw=true" alt="CompTIA Security+ " width="100"/><img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/splk1002.png?raw=true" alt="Splunk " width="110"/><img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/cc.png?raw=true" alt="CC" width="100"/>
 
 - TCM Security Practical SOC Analyst Associate (In Progress)
 - CompTIA Securit
