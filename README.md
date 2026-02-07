@@ -51,11 +51,12 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 # Education
 
 
-Post-graduate Certificate (Project Management)
+Post-graduate Certificate (Project Management) &nbsp; &nbsp; &nbsp; <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/gbclogo.png?raw=true" width =50 height=30/>
 
-MSc (Information Management)
 
-Bachelor's (Computer Science)
+MSc (Information Management) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/uiuc%20logo.png?raw=true" width =70 height=40/>
+
+Bachelor's (Computer Science)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/rgpv%20logo.png?raw=true" width =50 height=50/>
 
 <br>
 
