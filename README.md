@@ -15,7 +15,7 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 # Skills & Hands-on Projects
 
-🔐 1. **Cybersecurity & Threat Analysis**
+🔐 **1. Cybersecurity & Threat Analysis**
 - [Phishing Analysis](https://github.com/aarushi50/Phishing-Analysis)
 
 
@@ -43,20 +43,51 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 # Certifications
 
-<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/Security+-jpg.jpg?raw=true" alt="CompTIA Security+ " width="100"/><img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/splk1002.png?raw=true" alt="Splunk " width="110"/><img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/cc.png?raw=true" alt="CC" width="100"/>
+<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/PSAA.png?raw=true" width="100"/> 
+<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/Security+-jpg.jpg?raw=true" width="100"/>
+<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/splk1002.png?raw=true" width="110"/>
+<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/cc.png?raw=true" width="105"/>
+<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/Qualys.png?raw=true" width="100"/>
+<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/python.png?raw=true" width="95"/>
+<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/PBI.png?raw=true" width="98"/>
+<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/az900.png?raw=true" width="110"/>
+<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/tabl.png?raw=true" width="110"/>
 
-- TCM Security Practical SOC Analyst Associate (In Progress)
-- Qualys Vulnerability Management Training
-- Microsoft Power BI Data Analyst Associate
-- Microsoft Azure Fundamentals
-- Cisco Verified Python Essentials
+<br>
 
 # Education
-Post-graduate Certificate (Project Management)
+<div align="center">
+  <table>
+    <tr>
+      <td style="vertical-align: middle; padding-right: 15px;">
+        Post-graduate Certificate (Project Management)
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/gbclogo.png?raw=true" width="100" />
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle; padding-right: 15px;">
+        MSc (Information Management) 
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/uiuc%20logo.png?raw=true" width="100" />
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle; padding-right: 15px;">
+        Bachelor's (Computer Science)
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/rgpv%20logo.png?raw=true" width="50" />
+      </td>
+    </tr>
 
-MSc (Information Maangement)
+  </table>
+</div>
 
-Bachelor of Engineering (Computer Science)
+
+<br>
 
 # Work Style
 Detail-oriented, Team Player, Hardworking
