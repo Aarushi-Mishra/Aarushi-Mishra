@@ -43,19 +43,6 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 # Certifications
 
-<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/PSAA.png?raw=true" width="100"/> 
-<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/Security+-jpg.jpg?raw=true" width="100"/>
-<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/splk1002.png?raw=true" width="110"/>
-<img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/cc.png?raw=true" width="105"/>
-<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/Qualys.png?raw=true" width="100"/>
-<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/python.png?raw=true" width="95"/>
-<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/PBI.png?raw=true" width="98"/>
-<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/az900.png?raw=true" width="110"/>
-<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/tabl.png?raw=true" width="110"/>
-
-
-## Certifications
-
 <div align="center">
 
   <!-- Row 1 -->
