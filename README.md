@@ -43,40 +43,7 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 # Certifications
 
-<div align="center">
-
-  <!-- Row 1 -->
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/PSAA.png?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/Security+-jpg.jpg?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/splk1002.png?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/aarushi50/assets-for-GH/blob/main/images/cc.png?raw=true" width="110"/>
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/Qualys.png?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/python.png?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/PBI.png?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/az900.png?raw=true" width="110"/>
-  </div>
-  <div style="display:inline-block; width:22%; padding:10px;">
-    <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/tabl.png?raw=true" width="110"/>
-  </div>
-
-</div>
+ <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/all%20certs.png?raw=true" />
 
 
 <br>
