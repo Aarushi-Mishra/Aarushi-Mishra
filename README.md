@@ -16,28 +16,30 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 # Skills & Hands-on Projects
 
 🔐 **1. Cybersecurity & Threat Analysis**
-- [Phishing Analysis](https://github.com/aarushi50/Phishing-Analysis)
+- [Phishing Analysis](https://github.com/Aarushi-Mishra/Phishing-Analysis)
 
 
-- [Vulnerability Analysis](https://github.com/aarushi50/Vulnerability-Analysis) 
+- [Vulnerability Analysis](https://github.com/Aarushi-Mishra/Vulnerability-Analysis)
+
+- [Log Analysis](https://github.com/Aarushi-Mishra/Log-Analysis)
 
 📊 **2. Business & Applied Analytics**
 
-- [Fraud Analytics for ShopSpectra](https://github.com/aarushi50/Fraud-Analytics-for-ShopSpectra) 
+- [Fraud Analytics for ShopSpectra](https://github.com/Aarushi-Mishra/Fraud-Analytics-for-ShopSpectra) 
 
-- [Customer Churn Analysis](https://github.com/aarushi50/Customer-Churn-Analysis)  
+- [Customer Churn Analysis](https://github.com/Aarushi-Mishra/Customer-Churn-Analysis)  
  
-- [Bike Sales Analysis](https://github.com/aarushi50/Bike-Sales-Analysis)
+- [Bike Sales Analysis](https://github.com/Aarushi-Mishra/Bike-Sales-Analysis)
 
 🧪 **3. Statistical & Experimental Data Analytics**
 
-- [A/B Testing for ShopSpectra](https://github.com/aarushi50/AB-Testing-for-ShopSpectra) 
+- [A/B Testing for ShopSpectra](https://github.com/Aarushi-Mishra/AB-Testing-for-ShopSpectra) 
 
 
-- [Monte Carlo Simulation](https://github.com/aarushi50/BINGO--A-Monte-Carlo-Application) 
+- [Monte Carlo Simulation](https://github.com/Aarushi-Mishra/BINGO--A-Monte-Carlo-Application) 
 
 
-- [Speed Dating Analysis (SAS)](https://github.com/aarushi50/Speed-Dating-Data-Analysis)  
+- [Speed Dating Analysis (SAS)](https://github.com/Aarushi-Mishra/Speed-Dating-Data-Analysis)  
 
 <br>
 
