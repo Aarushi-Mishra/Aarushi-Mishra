@@ -9,14 +9,14 @@ I bring a strong background in data analytics and business intelligence and am n
 
 Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst where I can apply analytical skills to monitor, investigate, and respond to security events while strengthening organizational defenses.
 
-<br>
+
 
 # Challenges / CTFs
-[Splunk Boss Of The SOC (BOTS)](https://bots.splunk.com/)
+[Splunk Boss Of The SOC (BOTS)](https://bots.splunk.com/)<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/Splunk%20BOTS.png?raw=true" width =100 height=140/> 
 
-<br>
+
 
 # Skills & Hands-on Projects
 
@@ -45,19 +45,13 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 - [Speed Dating Analysis (SAS)](https://github.com/Aarushi-Mishra/Speed-Dating-Data-Analysis)  
 
-<br>
-
-
 
 # Certifications
 
  <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/all%20certs.png?raw=true" />
 
 
-<br>
-
 # Education
-
 
 Post-graduate Certificate (Project Management) &nbsp; &nbsp; &nbsp; <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/gbclogo.png?raw=true" width =50 height=30/>
 
@@ -66,7 +60,7 @@ MSc (Information Management) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 Bachelor's (Computer Science)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/rgpv%20logo.png?raw=true" width =50 height=50/>
 
-<br>
+
 
 # Work Style
 Detail-oriented, Team Player, Hardworking
