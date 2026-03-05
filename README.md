@@ -5,11 +5,16 @@
 
 I bring a strong background in data analytics and business intelligence and am now moving into cybersecurity. Over the past year, I have been developing practical security analysis skills through hands-on projects, certifications, and applied work with security datasets, with a growing focus on SOC operations, security analytics, and risk assessment.
 
-<br>
-
 # Career Focus
 
 Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst where I can apply analytical skills to monitor, investigate, and respond to security events while strengthening organizational defenses.
+
+<br>
+
+# Challenges / CTFs
+[Splunk Boss Of The SOC (BOTS)](https://bots.splunk.com/)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Aarushi-Mishra/assets-for-GH/blob/main/images/Splunk%20BOTS.png?raw=true" width =100 height=140/> 
 
 <br>
 
@@ -17,7 +22,6 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 
 🔐 **1. Cybersecurity & Threat Analysis**
 - [Phishing Analysis](https://github.com/Aarushi-Mishra/Phishing-Analysis)
-
 
 - [Vulnerability Analysis](https://github.com/Aarushi-Mishra/Vulnerability-Analysis)
 
@@ -42,6 +46,8 @@ Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst wher
 - [Speed Dating Analysis (SAS)](https://github.com/Aarushi-Mishra/Speed-Dating-Data-Analysis)  
 
 <br>
+
+
 
 # Certifications
 
