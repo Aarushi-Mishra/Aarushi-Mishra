@@ -3,11 +3,13 @@
 
 [🌐 LinkedIn](https://www.linkedin.com/in/aarushi-mishra-uiuc/) | [🅼 Medium](https://medium.com/@mishra.aarushi02)
 
-I bring a strong background in data analytics and business intelligence and am now moving into cybersecurity. Over the past year, I have been developing practical security analysis skills through hands-on projects, certifications, and applied work with security datasets, with a growing focus on SOC operations, security analytics, and risk assessment.
+I bring a strong background in data analytics and business intelligence, which I now apply to cybersecurity. As a volunteer Security Engineer at Solution Community, I gain hands-on experience in cloud security, identity and access management, phishing detection, and security monitoring using Google Workspace and Google Cloud Security Command Center. 
+
+Alongside this work, I continue to strengthen my skills through practical security projects, certifications, and analysis of security datasets, with a focus on SOC operations, threat detection, security analytics, and vulnerability risk management.
 
 # Career Focus
 
-Currently I am aiming to contribute as a SOC analyst /cybersecurity analyst where I can apply analytical skills to monitor, investigate, and respond to security events while strengthening organizational defenses.
+Currently I am aiming to contribute as a SOC Analyst / Cybersecurity Analyst / Security Engineer where I can apply analytical skills to monitor, investigate, and respond to security events while strengthening organizational defenses.
 
 
 
