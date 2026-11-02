@@ -29,6 +29,8 @@ Currently I am aiming to contribute as a SOC Analyst / Cybersecurity Analyst / S
 
 - [Log Analysis](https://github.com/Aarushi-Mishra/Log-Analysis)
 
+- [PKI Lifecycle Management](https://github.com/Aarushi-Mishra/PKI-Lifecycle-Management)
+
 📊 **2. Business & Applied Analytics**
 
 - [Fraud Analytics for ShopSpectra](https://github.com/Aarushi-Mishra/Fraud-Analytics-for-ShopSpectra) 
