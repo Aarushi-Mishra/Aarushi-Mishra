@@ -29,7 +29,7 @@ Currently I am aiming to contribute as a SOC Analyst / Cybersecurity Analyst / S
 
 - [Log Analysis](https://github.com/Aarushi-Mishra/Log-Analysis)
 
-- [PKI Lifecycle Management - OepnSSl, ServiceNow, Linux Shell](https://github.com/Aarushi-Mishra/PKI-Lifecycle-Management)
+- [PKI Lifecycle Management - OpenSSL, ServiceNow, Linux Shell](https://github.com/Aarushi-Mishra/PKI-Lifecycle-Management)
 
 📊 **2. Business & Applied Analytics**
 
